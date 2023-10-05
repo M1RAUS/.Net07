@@ -1,0 +1,29 @@
+use AdventureWorks2022
+select  from Sales.Customer
+
+select from Sales.Store
+order by[Name] asc
+
+select top(10)from HumanResources.Employee
+where [BirthDate]  '1989-09-28'
+order by [BirthDate] asc 
+
+select NationalIDNumber, LoginID, JobTitle from HumanResources.Employee
+where  right(LoginID, 1) = '0'
+select NationalIDNumber, LoginID, JobTitle from HumanResources.Employee
+order by[JobTitle] desc
+
+select from Person.Person
+where year (ModifiedDate) = 2008
+  and MiddleName is not null
+  and (Title is null)
+ 
+ select distinct D.Name as DepartmentName
+from HumanResources.EmployeeDepartmentHistory as EDH
+inner join HumanResources.Department as D on EDH.DepartmentID = D.DepartmentID
+
+select from HumanResources.Employee 
+where VacationHours = (select max(VacationHours) from HumanResources.Employee)
+
+select from HumanResources.Employee
+where JobTitle in ('Торговий представник', 'Адміністратор мережі', 'Менеджер мережі')

@@ -1,0 +1,15 @@
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\bin\Debug\net7.0\HW_2.3Candy.exe
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\bin\Debug\net7.0\HW_2.3Candy.deps.json
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\bin\Debug\net7.0\HW_2.3Candy.runtimeconfig.json
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\bin\Debug\net7.0\HW_2.3Candy.dll
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\bin\Debug\net7.0\HW_2.3Candy.pdb
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\obj\Debug\net7.0\HW_2.3Candy.csproj.AssemblyReference.cache
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\obj\Debug\net7.0\HW_2.3Candy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\obj\Debug\net7.0\HW_2.3Candy.AssemblyInfoInputs.cache
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\obj\Debug\net7.0\HW_2.3Candy.AssemblyInfo.cs
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\obj\Debug\net7.0\HW_2.3Candy.csproj.CoreCompileInputs.cache
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\obj\Debug\net7.0\HW_2.3Candy.dll
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\obj\Debug\net7.0\refint\HW_2.3Candy.dll
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\obj\Debug\net7.0\HW_2.3Candy.pdb
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\obj\Debug\net7.0\HW_2.3Candy.genruntimeconfig.cache
+D:\Курси .NET C#\HW_2.3Candy\HW_2.3Candy\obj\Debug\net7.0\ref\HW_2.3Candy.dll
